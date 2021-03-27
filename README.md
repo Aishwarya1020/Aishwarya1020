@@ -2,7 +2,7 @@
 - 👀 I’m interested in Traveling
 - 🌱 I’m currently learning DS.
 - 💞️ I’m looking to collaborate on Data science concepts...
-- 📫 How to reach me ...
+
 
 <!---
 Aishwarya1020/Aishwarya1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
